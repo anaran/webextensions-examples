@@ -3,10 +3,9 @@
   "description": "Get extension info from background script via minimal overlay UI. See https://github.com/mdn/webextensions-examples/communicate",
   "manifest_version": 2,
   "name": "Communicate",
-  "version": "1.0",
+  "version": "1.9",
   "applications": {
     "gecko": {
-      "id": "communicate@mozilla.org"
     }
   },
   
